@@ -9,3 +9,5 @@ This editor uses Termion a nice crate for reading user input and manage stdin/ou
 ## Clippy
 
 Clippy is a internal tool to check for errors in rust files.
+
+TODO Chapter 4 -> A text viewer.
